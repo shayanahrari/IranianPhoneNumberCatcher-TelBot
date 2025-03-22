@@ -41,7 +41,7 @@ To run this project, ensure you have the following:
 2. Set your Telegram bot token in the `config.py` file:
    
    ```python
-   TOKEN = "YOUR_BOT_TOKEN"
+   TOKEN_BOT = "YOUR_BOT_TOKEN"
    ```
 
    Replace `"YOUR_BOT_TOKEN"` with your actual Telegram bot token, which you can obtain by creating a bot with [BotFather](https://core.telegram.org/bots#botfather).
