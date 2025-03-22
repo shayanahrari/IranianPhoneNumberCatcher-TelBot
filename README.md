@@ -21,8 +21,11 @@ To run this project, ensure you have the following:
 1. Clone this repository or download it as a ZIP and extract it.
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/shayanahrari/IranianPhoneNumberCatcher-TelBot.git
+   ```
+
+   ```bash
+   cd IranianPhoneNumberCatcher-TelBot
    ```
 
 2. Install the required dependencies.
